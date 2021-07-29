@@ -17,11 +17,11 @@ body
 
 {
 
-	background: #33f;url("../imagenes/fuxion.jpg");
+	background: url("../imagenes/fuxion.jpg");
 	color: white;
 	font-weight: bold;
 	margin: 0;
-	padding: 0.5em;
+	padding: 0.5em 0 0.5em 3em;
 
 
 }
