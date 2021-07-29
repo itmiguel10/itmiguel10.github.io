@@ -17,11 +17,11 @@ body
 
 {
 
-	background: #33f;
+	background: url("../imagenes/fuxion.jpg");
 	color: white;
 	font-weight: bold;
 	margin: 0;
-	padding: 0.5em;
+	padding: 0.5em 0 0.5em 3em;
 
 
 }
@@ -59,3 +59,9 @@ body
 	padding: 1em;
 }
 
+#footer
+{
+        background: #777;
+        color: white;
+        text-align: center;
+}

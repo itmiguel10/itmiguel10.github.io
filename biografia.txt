@@ -1,5 +1,7 @@
 soy el ceo de xpassion y en mis tiempos libres me gusta jugar tennis tengo 32 años
+<<<<<<< HEAD
 de su vidi y tiens 40 añosa
-data de desde winodw
-
+data de desde windowd
+de su vida
+desde footer y header
 su vida y obra maestra
